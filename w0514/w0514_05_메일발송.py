@@ -3,7 +3,7 @@ from email.mime.text import MIMEText
 
 # 중요 정보
 sendEmail="seungmin0055@gmail.com"
-password="Z1MD26V1SZK8"
+password=""
 recvEmail = "seungmin0055@gmail.com"
 
 # 보내는 글 내용

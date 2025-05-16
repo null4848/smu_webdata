@@ -91,7 +91,7 @@ for li in lis:
 
 # 중요 정보 
 sendEmail = "chanyeol0406"
-password="Z1MD26V1SZK8"
+password=""
 recvEmail = "chanyeol0406@naver.com"
 
 text = date

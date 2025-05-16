@@ -5,7 +5,7 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 #중요 부분
-password="Z1MD26V1SZK8"
+password=""
 recvMail = "seungmin0055@gmail.com"
 
 # 파일 첨부 부분
