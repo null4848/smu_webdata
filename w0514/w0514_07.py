@@ -57,7 +57,7 @@ ff.close()
 print("프로그램 종료")
 
 # 중요 정보
-password = "Z1MD26V1SZK8"
+password = ""
 recv_email = "onulee@naver.com"
 
 msg = MIMEMultipart('alternative')
